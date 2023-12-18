@@ -18,4 +18,4 @@ let netSalary = grossSalary - (payee + nssfDeductions + nhifDeductions);
  
 //   The output that shows the individual's net salary.
 
-document.write('Your net salary is' + netSalary);
+document.write('Your net salary is  ' + netSalary);
